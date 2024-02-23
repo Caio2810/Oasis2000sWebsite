@@ -19,7 +19,7 @@ body {
     border-radius: 0;
 }
 
-/* Style the audio controls */
+
 #audio audio::-webkit-media-controls-panel {
     background-color: #333;
     color: white;
