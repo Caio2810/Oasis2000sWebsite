@@ -16,7 +16,7 @@ body {
     width: 300px;
     margin: 0 auto;
     display: block;
-    border-radius: 0; /* Make the audio controls squared */
+    border-radius: 0;
 }
 
 /* Style the audio controls */
